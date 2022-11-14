@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in the advance of academic and commercial areas, including hardware (HW) and software (SW) development, specially involving Arduino, Espressif, Raspberry and STM board families.
 
-- 🌱 I’m currently working with the following languages: Assembly, C/C++, Python, R and OpenQASM (QisKit - SDK).
+- 🌱 I’m currently working with the following languages: C/C++, Python, Matlab, Labview, Assembly, R, UML, VHDL, Verilog, Q#, OpenQASM (QisKit - SDK) and G.
 
 - 💞️ I’m looking to collaborate on projects concerning HW and SW development in Internet of Things (IoT) environments. The Smart Cities are the great research area for IoT devices insertion and test and also explored in my researches.
 
